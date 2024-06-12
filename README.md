@@ -31,6 +31,13 @@ A newsletter to the MySQL community for all things MySQL.
 
 _
 
+## AI
+
+**Air Around AI** [airaroundai.substack.com](https://airaroundai.substack.com/)  _AI, Recent News_
+
+Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI, for leaders and changemakers.
+_
+
 ## Web Development
 
 **HTML5 Weekly** [html5weekly.com](http://html5weekly.com) _Browsers, HTML, CSS, JavaScript_
