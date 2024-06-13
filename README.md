@@ -29,14 +29,11 @@ A free, once–weekly e-mail round-up of PostgreSQL news and articles.
 
 A newsletter to the MySQL community for all things MySQL.
 
-_
 
 ## AI
 
-**Air Around AI** [airaroundai.substack.com](https://airaroundai.substack.com/)  _AI, Recent News_
+**Air Around AI** [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI.
 
-Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI, for leaders and changemakers.
-_
 
 ## Web Development
 
